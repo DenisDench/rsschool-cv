@@ -2,7 +2,7 @@
 
 ## Contact Info
 * **Telegram:** @DenisDench
-* **email:** salihov.den@mail.ru
+* **Email:** salihov.den@mail.ru
 
 ## Summary
 I started my front-end development selfeducation not that long ago, in November 2019. But I am ambitious and super motivated. I always learn something new from online courses, books and of course by google research. Ready to hit the wall. Ready to break it and hit another.
